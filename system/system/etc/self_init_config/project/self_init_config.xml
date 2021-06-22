@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<self_init_config>
+
+<fingerprint_time project="18601,18602,18603" regionmark="RU"  value= "1552053481" />
+<base_os_time     project="18601,18602,18603" regionmark="RU"  value= "1546327257" />
+
+<fingerprint_time project="18601,18602,18603" regionmark="-RU"  value= "1552053481" />
+<base_os_time     project="18601,18602,18603" regionmark="-RU"  value= "1546327257" />
+
+<fingerprint_time project="18605,18606,18607" regionmark="RU"  value= "1552053481" />
+<base_os_time     project="18605,18606,18607" regionmark="RU"  value= "1547262904" />
+
+<fingerprint_time project="18605,18606,18607" regionmark="-RU"  value= "1552053481" />
+<base_os_time     project="18605,18606,18607" regionmark="-RU"  value= "1547262904" />
+
+</self_init_config>

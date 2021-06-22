@@ -1,0 +1,2 @@
+com.qidian.QDReader.traditional
+com.vova.android
